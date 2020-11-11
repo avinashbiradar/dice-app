@@ -7,5 +7,7 @@ case $number in
 ;;
 2)echo "third face"
 ;;
+4)echo"forth face "
+;;
 *)echo "not a face"
 esac
